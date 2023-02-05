@@ -18,11 +18,12 @@ html {
 }
 body {
   font-family: var(--font-family);
+  background-color: var(--dark-blue);
 }
 .container {
   width: 100%;
   min-height: 100vh;
-  background-color: var(--dark-blue);
+
   color: var(--pure-white);
   display: grid;
 }
